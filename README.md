@@ -1,4 +1,5 @@
-## Hi there 👋
+## Olá! Meu nome é Robson. Sou bacharel em Química, mas meu interesse por tecnologia me levou a explorar com entusiasmo o mundo do desenvolvimento de software e infraestrutura de TI.
+Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer sugestão ou feedback!
 
 <!--
 **robson817/robson817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
