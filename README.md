@@ -10,6 +10,6 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer s
 
 ### 📊 GitHub Stats
 
-![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robson817&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robson817&show_icons=true&theme=chartreuse-dark&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&theme=chartreuse-dark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
