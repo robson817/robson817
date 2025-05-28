@@ -8,6 +8,7 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer s
 
 ### :bar_chart: Métricas do meu perfil no Github
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apirobson817=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apirobson817=anuraghazra&hide=contribs,prs)
 <!--
 Se o TypeScript ainda não aparecer, considere excluir repositórios que dominam o gráfico com:
 &exclude_repo=nome-do-repo1,nome-do-repo2
