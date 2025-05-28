@@ -7,8 +7,8 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer s
 [<img src="https://raw.githubusercontent.com/felipez3r0/felipez3r0/master/assets/linkedin.svg" width="50">](https://www.linkedin.com/in/robsonmantovani/) 
 
 ### :bar_chart: Métricas do meu perfil no Github
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ericmeneg&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericmeneg&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robson817&theme=transparent&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 Se o TypeScript ainda não aparecer, considere excluir repositórios que dominam o gráfico com:
