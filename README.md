@@ -1,6 +1,6 @@
 ## Hi there, I'm Robson 👋
 
-Sou bacharel em Química, mas meu interesse por tecnologia me levou a explorar com entusiasmo o mundo do desenvolvimento de software e infraestrutura de TI.
+Sou bacharel em Química, mas meu interesse por tecnologia me levou a explorar com entusiasmo o mundo do desenvolvimento de software e infraestrutura de TI.  
 Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer sugestão ou feedback!
 
 ### :computer: Social Media
@@ -8,8 +8,17 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer s
 
 ### :bar_chart: Github Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robson817&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+Se quiser excluir repositórios que dominam seu gráfico e ofuscam TypeScript, adicione: &exclude_repo=repo1,repo2
+Exemplo:
+https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&count_private=true&langs_count=10&exclude_repo=repo1,repo2
+-->
+
+### :calendar: Contribution Activity
+![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=robson817&theme=github)
 
 <!--
 **robson817/robson817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
