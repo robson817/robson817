@@ -6,31 +6,19 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer s
 ### :computer: Social Media
 [<img src="https://raw.githubusercontent.com/felipez3r0/felipez3r0/master/assets/linkedin.svg" width="50">](https://www.linkedin.com/in/robsonmantovani/) 
 
-### :bar_chart: Github Stats
+### :bar_chart: GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robson817&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&count_private=true&langs_count=10&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-Se quiser excluir repositórios que dominam seu gráfico e ofuscam TypeScript, adicione: &exclude_repo=repo1,repo2
-Exemplo:
-https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&count_private=true&langs_count=10&exclude_repo=repo1,repo2
--->
+Se o TypeScript ainda não aparecer, considere excluir repositórios que dominam o gráfico com:
+&exclude_repo=nome-do-repo1,nome-do-repo2
 
-### :calendar: Contribution Activity
-![GitHub Contribution](https://github-readme-activity-graph.vercel.app/graph?username=robson817&theme=github)
+Exemplo:
+https://github-readme-stats.vercel.app/api/top-langs/?username=robson817&layout=compact&count_private=true&langs_count=10&exclude_repo=portfolio-html,landingpage-clone&v=2
+-->
 
 <!--
 **robson817/robson817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
