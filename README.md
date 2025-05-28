@@ -6,7 +6,7 @@ Sinta-se à vontade para explorar meus repositórios e contribuir com qualquer s
 ### :computer: Social Media
 [<img src="https://raw.githubusercontent.com/felipez3r0/felipez3r0/master/assets/linkedin.svg" width="50">](https://www.linkedin.com/in/robsonmantovani/) 
 
-![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robson817&show_icons=true&theme=gruvbox&count_private=true&hide=prs)
+![Robson's GitHub stats](https://github-readme-stats.vercel.app/api?username=robson817&show_icons=true&theme=chartreuse-dark&count_private=true)
 
 <!--
 Se o TypeScript ainda não aparecer, considere excluir repositórios que dominam o gráfico com:
